@@ -1,0 +1,171 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+AHEAD_END_TIME::2	D:\1.DJS\sanse88+RS485\led.c	34;"	d	line:34	file:
+BAUD_RATE_2400::SPBRGH=0X01;SPBRG=0XDF;	D:\1.DJS\sanse88+RS485\led.c	39;"	d	line:39	file:
+BAUD_RATE_4800::SPBRGH=0X00;SPBRG=0XEF;	D:\1.DJS\sanse88+RS485\led.c	38;"	d	line:38	file:
+BAUD_RATE_9600::SPBRGH=0X00;SPBRG=0X77;	D:\1.DJS\sanse88+RS485\led.c	37;"	d	line:37	file:
+BORV40	D:\1.DJS\sanse88+RS485\led.c	2;"	v	line:2
+CheckSum	D:\1.DJS\sanse88+RS485\led.c	1326;"	l	line:1326
+DECADE_MODE::0	D:\1.DJS\sanse88+RS485\led.c	17;"	d	line:17	file:
+DEVIATION_TIME::140	D:\1.DJS\sanse88+RS485\led.c	32;"	d	line:32	file:
+DISPLAY_SYN_WINK::0	D:\1.DJS\sanse88+RS485\led.c	24;"	d	line:24	file:
+EEPRADDR::0x10	D:\1.DJS\sanse88+RS485\led.c	41;"	d	line:41	file:
+FILTER_OFF_TIME::21	D:\1.DJS\sanse88+RS485\led.c	29;"	d	line:29	file:
+FILTER_ON_TIME::2	D:\1.DJS\sanse88+RS485\led.c	28;"	d	line:28	file:
+FIRST_RED_LAMP_VALID::0	D:\1.DJS\sanse88+RS485\led.c	21;"	d	line:21	file:
+GREWORDS	D:\1.DJS\sanse88+RS485\led.c	113;"	v	line:113
+G_SEGMENT_WINK_FLAG::0	D:\1.DJS\sanse88+RS485\led.c	23;"	d	line:23	file:
+G_Segment_Wink	D:\1.DJS\sanse88+RS485\led.c	1144;"	f	line:1144	signature:(void)
+ISR	D:\1.DJS\sanse88+RS485\led.c	1301;"	f	line:1301	signature:(void)
+LAMP_STATE::((PORTC>>2)&0x07)	D:\1.DJS\sanse88+RS485\led.c	26;"	d	line:26	file:
+LAST_DISPLAY_NUMBER::1	D:\1.DJS\sanse88+RS485\led.c	18;"	d	line:18	file:
+LOST_DELAY_TIME::3	D:\1.DJS\sanse88+RS485\led.c	40;"	d	line:40	file:
+PULSE_DOWN_TIME::9	D:\1.DJS\sanse88+RS485\led.c	16;"	d	line:16	file:
+PULSE_DOWN_TIME_MODE::1	D:\1.DJS\sanse88+RS485\led.c	22;"	d	line:22	file:
+PULSE_MAX::350	D:\1.DJS\sanse88+RS485\led.c	20;"	d	line:20	file:
+PULSE_MIN::80	D:\1.DJS\sanse88+RS485\led.c	19;"	d	line:19	file:
+PULSE_SAMPLE_MAX::(PULSE_MAX+5)	D:\1.DJS\sanse88+RS485\led.c	31;"	d	line:31	file:
+PULSE_SAMPLE_MIN::(PULSE_MIN-34)	D:\1.DJS\sanse88+RS485\led.c	30;"	d	line:30	file:
+REDWORDS	D:\1.DJS\sanse88+RS485\led.c	112;"	v	line:112
+RX_LENGTH::30	D:\1.DJS\sanse88+RS485\led.c	36;"	d	line:36	file:
+STUDY_MODE::0	D:\1.DJS\sanse88+RS485\led.c	15;"	d	line:15	file:
+TABLEHEAD::0xfe	D:\1.DJS\sanse88+RS485\led.c	43;"	d	line:43	file:
+TFG	D:\1.DJS\sanse88+RS485\led.c	46;"	v	line:46
+TableLength	D:\1.DJS\sanse88+RS485\led.c	1328;"	l	line:1328
+WDTENABLE::PSA=0;WDTCON=0X15;	D:\1.DJS\sanse88+RS485\led.c	33;"	d	line:33	file:
+YELWORDS	D:\1.DJS\sanse88+RS485\led.c	114;"	v	line:114
+addr_read	D:\1.DJS\sanse88+RS485\led.c	199;"	f	line:199	signature:(void)
+addr_write	D:\1.DJS\sanse88+RS485\led.c	208;"	f	line:208	signature:(unsigned char indata)
+address_of_lamp	D:\1.DJS\sanse88+RS485\led.c	101;"	v	line:101
+communication_counter	D:\1.DJS\sanse88+RS485\led.c	83;"	v	line:83
+communication_err	D:\1.DJS\sanse88+RS485\led.c	1527;"	f	line:1527	signature:(void)
+communication_flag	D:\1.DJS\sanse88+RS485\led.c	82;"	v	line:82
+current_study_counter	D:\1.DJS\sanse88+RS485\led.c	72;"	v	line:72
+display_data	D:\1.DJS\sanse88+RS485\led.c	77;"	v	line:77
+displaying_second_counter	D:\1.DJS\sanse88+RS485\led.c	90;"	v	line:90
+down_time	D:\1.DJS\sanse88+RS485\led.c	1329;"	l	line:1329
+down_time_display	D:\1.DJS\sanse88+RS485\led.c	507;"	f	line:507	signature:(void)
+every_second_update_counter	D:\1.DJS\sanse88+RS485\led.c	103;"	v	line:103
+every_second_update_delay	D:\1.DJS\sanse88+RS485\led.c	104;"	v	line:104
+every_second_update_flag	D:\1.DJS\sanse88+RS485\led.c	102;"	v	line:102
+filterAC_DC	D:\1.DJS\sanse88+RS485\led.c	693;"	f	line:693	signature:(void)
+g_segment_100ms_counter	D:\1.DJS\sanse88+RS485\led.c	61;"	v	line:61
+g_segment_afresh_analyse	D:\1.DJS\sanse88+RS485\led.c	1210;"	f	line:1210	signature:(void)
+g_segment_afresh_counter	D:\1.DJS\sanse88+RS485\led.c	63;"	v	line:63
+g_segment_afresh_number	D:\1.DJS\sanse88+RS485\led.c	64;"	v	line:64
+g_segment_afresh_state	D:\1.DJS\sanse88+RS485\led.c	62;"	v	line:62
+g_segment_displaying	D:\1.DJS\sanse88+RS485\led.c	420;"	f	line:420	signature:(unsigned char number)
+g_segment_wink_display_flag	D:\1.DJS\sanse88+RS485\led.c	60;"	v	line:60
+g_segment_wink_state_flag	D:\1.DJS\sanse88+RS485\led.c	59;"	v	line:59
+g_segment_wink_time_counter	D:\1.DJS\sanse88+RS485\led.c	58;"	v	line:58
+gre_displaydrv	D:\1.DJS\sanse88+RS485\led.c	303;"	f	line:303	signature:(unsigned int drvword)
+gre_displaying	D:\1.DJS\sanse88+RS485\led.c	388;"	f	line:388	signature:(unsigned int number)
+gre_displaying_end	D:\1.DJS\sanse88+RS485\led.c	410;"	f	line:410	signature:(void)
+gre_displaying_flag	D:\1.DJS\sanse88+RS485\led.c	88;"	v	line:88
+i	D:\1.DJS\sanse88+RS485\led.c	1146;"	l	line:1146
+i	D:\1.DJS\sanse88+RS485\led.c	118;"	l	line:118
+i	D:\1.DJS\sanse88+RS485\led.c	1212;"	l	line:1212
+i	D:\1.DJS\sanse88+RS485\led.c	1555;"	l	line:1555
+i	D:\1.DJS\sanse88+RS485\led.c	261;"	l	line:261
+i	D:\1.DJS\sanse88+RS485\led.c	284;"	l	line:284
+i	D:\1.DJS\sanse88+RS485\led.c	306;"	l	line:306
+i	D:\1.DJS\sanse88+RS485\led.c	509;"	l	line:509
+i	D:\1.DJS\sanse88+RS485\led.c	695;"	l	line:695
+i	D:\1.DJS\sanse88+RS485\led.c	746;"	l	line:746
+i	D:\1.DJS\sanse88+RS485\led.c	834;"	l	line:834
+i	D:\1.DJS\sanse88+RS485\led.c	893;"	l	line:893
+ioinit	D:\1.DJS\sanse88+RS485\led.c	116;"	f	line:116	signature:(void)
+k	D:\1.DJS\sanse88+RS485\led.c	1325;"	l	line:1325
+k	D:\1.DJS\sanse88+RS485\led.c	1554;"	l	line:1554
+k	D:\1.DJS\sanse88+RS485\led.c	262;"	l	line:262
+k	D:\1.DJS\sanse88+RS485\led.c	285;"	l	line:285
+k	D:\1.DJS\sanse88+RS485\led.c	307;"	l	line:307
+k	D:\1.DJS\sanse88+RS485\led.c	349;"	l	line:349
+k	D:\1.DJS\sanse88+RS485\led.c	380;"	l	line:380
+k	D:\1.DJS\sanse88+RS485\led.c	412;"	l	line:412
+k	D:\1.DJS\sanse88+RS485\led.c	422;"	l	line:422
+lamp_chge_counter	D:\1.DJS\sanse88+RS485\led.c	49;"	v	line:49
+lamp_counter_valid_flag	D:\1.DJS\sanse88+RS485\led.c	51;"	v	line:51
+lamp_err_state_check	D:\1.DJS\sanse88+RS485\led.c	1102;"	f	line:1102	signature:(void)
+lamp_off_counter	D:\1.DJS\sanse88+RS485\led.c	56;"	v	line:56
+lamp_off_flag	D:\1.DJS\sanse88+RS485\led.c	55;"	v	line:55
+lamp_off_time	D:\1.DJS\sanse88+RS485\led.c	57;"	v	line:57
+lamp_on_counter	D:\1.DJS\sanse88+RS485\led.c	54;"	v	line:54
+lamp_on_flag	D:\1.DJS\sanse88+RS485\led.c	53;"	v	line:53
+lamp_stab_state	D:\1.DJS\sanse88+RS485\led.c	47;"	v	line:47
+lamp_temp_state	D:\1.DJS\sanse88+RS485\led.c	48;"	v	line:48
+ledstate	D:\1.DJS\sanse88+RS485\led.c	69;"	v	line:69
+main	D:\1.DJS\sanse88+RS485\led.c	1552;"	f	line:1552	signature:(void)
+no_lamp_on_counter	D:\1.DJS\sanse88+RS485\led.c	50;"	v	line:50
+previous_study_counter	D:\1.DJS\sanse88+RS485\led.c	71;"	v	line:71
+pulse_down_time_valid_flag	D:\1.DJS\sanse88+RS485\led.c	108;"	v	line:108
+pulse_down_times	D:\1.DJS\sanse88+RS485\led.c	109;"	v	line:109
+pulse_study_time_counter	D:\1.DJS\sanse88+RS485\led.c	107;"	v	line:107
+pulse_study_time_flag	D:\1.DJS\sanse88+RS485\led.c	106;"	v	line:106
+pulse_to_study	D:\1.DJS\sanse88+RS485\led.c	78;"	v	line:78
+red_displaydrv	D:\1.DJS\sanse88+RS485\led.c	258;"	f	line:258	signature:(unsigned int drvword)
+red_displaying	D:\1.DJS\sanse88+RS485\led.c	325;"	f	line:325	signature:(unsigned int number)
+red_displaying_end	D:\1.DJS\sanse88+RS485\led.c	347;"	f	line:347	signature:(void)
+red_displaying_flag	D:\1.DJS\sanse88+RS485\led.c	87;"	v	line:87
+restart_flag	D:\1.DJS\sanse88+RS485\led.c	92;"	v	line:92
+sametime_on_counter	D:\1.DJS\sanse88+RS485\led.c	81;"	v	line:81
+seek_down_pulse	D:\1.DJS\sanse88+RS485\led.c	744;"	f	line:744	signature:(void)
+study_chge_counter	D:\1.DJS\sanse88+RS485\led.c	74;"	v	line:74
+study_lamp_stab_state	D:\1.DJS\sanse88+RS485\led.c	73;"	v	line:73
+study_mode_filterAC_DC	D:\1.DJS\sanse88+RS485\led.c	832;"	f	line:832	signature:(void)
+study_mode_time_calculation	D:\1.DJS\sanse88+RS485\led.c	891;"	f	line:891	signature:(void)
+study_or_pulse_mode	D:\1.DJS\sanse88+RS485\led.c	85;"	v	line:85
+study_time_flag	D:\1.DJS\sanse88+RS485\led.c	75;"	v	line:75
+study_time_valid_flag	D:\1.DJS\sanse88+RS485\led.c	76;"	v	line:76
+study_to_pulse	D:\1.DJS\sanse88+RS485\led.c	79;"	v	line:79
+study_to_pulse_flag	D:\1.DJS\sanse88+RS485\led.c	80;"	v	line:80
+syn_wink_display_state	D:\1.DJS\sanse88+RS485\led.c	65;"	v	line:65
+syn_wink_display_updata	D:\1.DJS\sanse88+RS485\led.c	66;"	v	line:66
+syn_wink_manage	D:\1.DJS\sanse88+RS485\led.c	452;"	f	line:452	signature:(unsigned char channel)
+temp_data	D:\1.DJS\sanse88+RS485\led.c	1213;"	l	line:1213
+temp_data1	D:\1.DJS\sanse88+RS485\led.c	1147;"	l	line:1147
+temp_data2	D:\1.DJS\sanse88+RS485\led.c	1148;"	l	line:1148
+temp_gre_var0	D:\1.DJS\sanse88+RS485\led.c	390;"	l	line:390
+temp_gre_var1	D:\1.DJS\sanse88+RS485\led.c	391;"	l	line:391
+temp_gre_var2	D:\1.DJS\sanse88+RS485\led.c	392;"	l	line:392
+temp_pointer	D:\1.DJS\sanse88+RS485\led.c	1327;"	l	line:1327
+temp_red_var0	D:\1.DJS\sanse88+RS485\led.c	327;"	l	line:327
+temp_red_var1	D:\1.DJS\sanse88+RS485\led.c	328;"	l	line:328
+temp_red_var2	D:\1.DJS\sanse88+RS485\led.c	329;"	l	line:329
+temp_var1	D:\1.DJS\sanse88+RS485\led.c	510;"	l	line:510
+temp_var1	D:\1.DJS\sanse88+RS485\led.c	696;"	l	line:696
+temp_var1	D:\1.DJS\sanse88+RS485\led.c	747;"	l	line:747
+temp_var1	D:\1.DJS\sanse88+RS485\led.c	835;"	l	line:835
+temp_var1	D:\1.DJS\sanse88+RS485\led.c	894;"	l	line:894
+temp_var2	D:\1.DJS\sanse88+RS485\led.c	511;"	l	line:511
+temp_var2	D:\1.DJS\sanse88+RS485\led.c	697;"	l	line:697
+temp_var2	D:\1.DJS\sanse88+RS485\led.c	836;"	l	line:836
+temp_var2	D:\1.DJS\sanse88+RS485\led.c	895;"	l	line:895
+temp_var3	D:\1.DJS\sanse88+RS485\led.c	748;"	l	line:748
+temp_var3	D:\1.DJS\sanse88+RS485\led.c	837;"	l	line:837
+temp_yel_var0	D:\1.DJS\sanse88+RS485\led.c	359;"	l	line:359
+temp_yel_var1	D:\1.DJS\sanse88+RS485\led.c	360;"	l	line:360
+temp_yel_var2	D:\1.DJS\sanse88+RS485\led.c	361;"	l	line:361
+tempdata	D:\1.DJS\sanse88+RS485\led.c	260;"	l	line:260
+tempdata	D:\1.DJS\sanse88+RS485\led.c	283;"	l	line:283
+tempdata	D:\1.DJS\sanse88+RS485\led.c	305;"	l	line:305
+tempdata	D:\1.DJS\sanse88+RS485\led.c	454;"	l	line:454
+ten_mm_counter	D:\1.DJS\sanse88+RS485\led.c	68;"	v	line:68
+timer1init	D:\1.DJS\sanse88+RS485\led.c	246;"	f	line:246	signature:(void)
+usart_data_analyse	D:\1.DJS\sanse88+RS485\led.c	1323;"	f	line:1323	signature:(void)
+usart_rx_buffer	D:\1.DJS\sanse88+RS485\led.c	94;"	v	line:94
+usart_rx_read	D:\1.DJS\sanse88+RS485\led.c	96;"	v	line:96
+usart_rx_write	D:\1.DJS\sanse88+RS485\led.c	95;"	v	line:95
+usart_temp_buffer	D:\1.DJS\sanse88+RS485\led.c	100;"	v	line:100
+usartinit	D:\1.DJS\sanse88+RS485\led.c	223;"	f	line:223	signature:(void)
+wdtcounter	D:\1.DJS\sanse88+RS485\led.c	70;"	v	line:70
+yel_displaydrv	D:\1.DJS\sanse88+RS485\led.c	281;"	f	line:281	signature:(unsigned int drvword)
+yel_displaying	D:\1.DJS\sanse88+RS485\led.c	357;"	f	line:357	signature:(unsigned int number)
+yel_displaying_end	D:\1.DJS\sanse88+RS485\led.c	378;"	f	line:378	signature:(void)
+yel_displaying_flag	D:\1.DJS\sanse88+RS485\led.c	89;"	v	line:89
